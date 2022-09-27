@@ -1,0 +1,9 @@
+//!/bin/bash
+
+first_script_bash
+
+read -r "Ipsum" name
+echo -e " je m'apelle $name "
+
+//// test_script 
+
